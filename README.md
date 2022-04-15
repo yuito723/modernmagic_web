@@ -6,6 +6,7 @@
     <p>・サイトは<a href="https://yuito723.github.io/modernmagic_web/">こちら</a><p>
     <br>
     <h1>取り扱っている分野とそのページへのリンク</h1>
+    <p>現在準備中です。</p>
     <br>
     <h1>PDF版のダウンロードリンク</h1>
     <p>現在準備中です。</p>
