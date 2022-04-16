@@ -7,7 +7,7 @@ h2 { font-size: 50px;
      margin-bottom: 100px;
      color: black;
      text-align: center; }
-h3 { background-color: #DDA0DD;
+h3 { background-color: #EE82EE;
      color: white;
      font-size: 50px;
      margin-bottom: 25px;
@@ -17,7 +17,7 @@ p { font-size: 30px;
     color: black;
     text-align: left; }
 iframe { width: 100%; }
-.link { color: #DDA0DD; } 
+.link { color: #EE82EE; } 
 .side-blank { max-width:100%;
               padding: 0 150px;
               margin-left: auto;
@@ -25,7 +25,7 @@ iframe { width: 100%; }
 .header { height: 75px;
           width: 100%;
           box-shadow: 0 0 10px #dddddd;
-          background-color: #DDA0DD; }
+          background-color: #EE82EE; }
 .header-left { float: left; }
 .header-right { float: right; }
 .header-right a { line-height: 75px;
@@ -39,7 +39,7 @@ iframe { width: 100%; }
 .clear { clear: both; }
 .footer { height: 100px;
           width: 100%;
-          background-color: #DDA0DD;
+          background-color: #EE82EE;
           color: white;
           font-size: 20px;
           padding-top: 30px;
